@@ -1,5 +1,7 @@
 # Loan Default Prediction
 
+Project Completion Date: October 2024
+
 This project uses LendingClub loan data from 2007 to 2018 to predict the likelihood of loan default based on borrower financial features.
 
 ## 📊 Dataset
